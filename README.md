@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ted-analytics
+- 👋 Hi, I’m @Teddy
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything DATA
