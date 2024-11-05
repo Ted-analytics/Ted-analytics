@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything DATA
-- 📫 How to reach me Email:tedmaina@htomail.com 
+- 📫 How to reach me Email:tedmaina@hotmail.com 
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I enjoy cooking data and food.
 
