@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything DATA
 - 📫 How to reach me Email:tedmaina@hotmail.com 
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I enjoy cooking data and food.
+- ⚡ Fun fact: I enjoy cooking.
 
 <!---
 Ted-analytics/Ted-analytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
